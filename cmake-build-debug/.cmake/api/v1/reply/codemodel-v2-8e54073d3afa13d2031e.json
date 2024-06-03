@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Task4_App",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Task4_App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task4_App-Debug-841c9a23c30b3871ea0e.json",
+					"name" : "Task4_App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task4_App_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task4_App_autogen-Debug-93144f6008777fd9caac.json",
+					"name" : "Task4_App_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task4_App_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task4_App_autogen_timestamp_deps-Debug-67971db60ef8c3f49c61.json",
+					"name" : "Task4_App_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/sem6/cpp/Task4_4/cmake-build-debug",
+		"source" : "D:/sem6/cpp/Task4_4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

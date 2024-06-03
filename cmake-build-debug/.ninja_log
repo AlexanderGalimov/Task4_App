@@ -1,0 +1,12 @@
+# ninja log v6
+50	249	7391384893918196	Task4_App_autogen/timestamp	269f157418c6cf2c
+793	4321	7391338151267360	CMakeFiles/Task4_App.dir/main.cpp.obj	6eb40a7a5e4e38f2
+50	249	7391384893918196	Task4_App_autogen/mocs_compilation.cpp	269f157418c6cf2c
+5018	5650	7391384943587367	Task4_App.exe	717438b5fdfddb92
+50	249	7391384893918196	D:/sem6/cpp/Task4_4/cmake-build-debug/Task4_App_autogen/timestamp	269f157418c6cf2c
+205	894	7391226755231061	CMakeFiles/Task4_App.dir/Logger.cpp.obj	a27b78233a79f789
+50	249	7391384893918196	D:/sem6/cpp/Task4_4/cmake-build-debug/Task4_App_autogen/mocs_compilation.cpp	269f157418c6cf2c
+787	4356	7391338151207316	CMakeFiles/Task4_App.dir/Task4_App_autogen/mocs_compilation.cpp.obj	b46f2b099dad686b
+32	763	7391424752931529	build.ninja	23c91d21d3bf10fa
+798	1589	7391338151307563	CMakeFiles/Task4_App.dir/cpp/Logger.cpp.obj	47ec671949c1ecf8
+249	5017	7391384895908107	CMakeFiles/Task4_App.dir/cpp/App.cpp.obj	b005a2e9e7c359c8
